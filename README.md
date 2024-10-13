@@ -18,7 +18,6 @@ The repository contains:
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Visualizations](#visualizations)
-6. [License](#license)
 
 ## Project Structure
 
